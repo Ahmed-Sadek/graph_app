@@ -5,13 +5,7 @@ Implementation of graph algorithms including Dijkstra's shortest path and Prim's
 ## Project Structure
 graph_app/
 ├── src/
-│ ├── data_structures.h
-│ ├── data_structures.cpp
-│ ├── algorithms.h
-│ ├── algorithms.cpp
-│ ├── algorithm_result.h
-│ ├── algorithm_result.cpp
-│ └── main.cpp
+│ ├── graph_pathfinding.h
 └── tests/
 
 ## Setup
@@ -20,7 +14,5 @@ graph_app/
 3. Run the tests
 
 ## Usage
-[Add usage instructions here]
 
 ## Contributing
-[Add contributing guidelines here]
