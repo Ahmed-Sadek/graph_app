@@ -1,0 +1,10 @@
+# Build files
+*.o
+*.out
+**/graph_program
+**/build/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
